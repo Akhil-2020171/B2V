@@ -1,0 +1,6 @@
+ultralytics
+flask
+flask-cors
+pytesseract # remove this since it is not used
+tensorflow
+ocr-nanonets-wrapper
